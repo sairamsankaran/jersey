@@ -1,4 +1,4 @@
 jersey
 ======
 
-Jersey tutorial files from Pluralsight exercises
+Tutorial files from Pluralsight exercises - RESTful Services in Java using Jersey
